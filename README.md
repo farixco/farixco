@@ -5,9 +5,9 @@
 ### <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae5/u1fae5_u1f914.png" width=25> ABOUT ME:
 
 Tech hipster. Sun Microsystems nostalgic. Linux enjoyer.
-- :guatemala: From: Guatemala.
-- 🔭 I’m currently working on: college projects.
-- 😄 Pronouns: él/he/him
+- :guatemala: From Guatemala.
+- 🔭 I’m currently working on college projects! Mostly circuits that haven't gotten the git treatment yet...
+- 😄 Pronouns: él/he/him.
 
 ---
 ### <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20210218/u1f636-u200d-u1f32b-ufe0f/u1f636-u200d-u1f32b-ufe0f_u1f920.png" width=25> CONTACT:
@@ -17,6 +17,9 @@ Tech hipster. Sun Microsystems nostalgic. Linux enjoyer.
   </a>
   <a href="https://t.me/farixco">
     <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/farixco/">
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
